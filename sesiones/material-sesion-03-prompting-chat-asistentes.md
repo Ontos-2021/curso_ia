@@ -1,6 +1,6 @@
 # Material teorico - Sesion 3: Prompting y chat con asistentes
 
-![Portada de la sesion 3 sobre prompting y chat con asistentes](assets/portada-material-teorico-sesion-3-prompting-y-chat-con-asistentes.png)
+![Portada de la sesion 3 sobre prompting y chat con asistentes](../assets/portada-material-teorico-sesion-3-prompting-y-chat-con-asistentes.png)
 
 ## Proposito de la sesion
 

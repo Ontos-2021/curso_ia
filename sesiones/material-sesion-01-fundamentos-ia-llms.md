@@ -1,6 +1,6 @@
 # Material teorico - Sesion 1: Fundamentos de IA y LLMs
 
-![Portada - Fundamentos de IA](assets/portada-fundamentos-ia.png)
+![Portada - Fundamentos de IA](../assets/portada-fundamentos-ia.png)
 
 ## Proposito de la sesion
 

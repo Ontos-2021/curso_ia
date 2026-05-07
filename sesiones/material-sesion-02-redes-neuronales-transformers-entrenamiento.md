@@ -1,6 +1,6 @@
 # Material teorico - Sesion 2: Redes neuronales, transformers y entrenamiento
 
-![Portada - Redes neuronales y transformers](assets/portada-sesion-02-redes-neuronales-transformers.png)
+![Portada - Redes neuronales y transformers](../assets/portada-sesion-02-redes-neuronales-transformers.png)
 
 ## Proposito de la sesion
 
